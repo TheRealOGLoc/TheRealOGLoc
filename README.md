@@ -9,11 +9,34 @@
 - 🌍 Languages: I speak [English, Chinese].
 
 ## Skills
-- Programming Languages: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black) ![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black) ![C](https://img.shields.io/badge/C-F7DF1E?style=flat-square&logo=C&logoColor=black) ![C#](https://img.shields.io/badge/C#-F7DF1E?style=flat-square&logoColor=black) 
-- Frontend Development: ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-1572B6?style=flat-square&logo=redux&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-1572B6?style=flat-square&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-1572B6?style=flat-square&logoColor=white)
-- Backend Development: ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white) ![Express](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=express&logoColor=white)
-- Databases: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-- Others: ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+- Programming Languages: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) 
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+  ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black) 
+  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+- Frontend Development: 
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
+  ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- Backend Development: 
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node-dot-js&logoColor=white) 
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- Databases: 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+- Others: 
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+  
+- ...
 
 ## Projects
 - [PerformanceXpert](https://github.com/TheRealOGLoc/performanceXpert) - An eCommerce website using the MERN Stack. Implemented CRUD operations for product management, empowering users with flexible control over product listings. Leveraged MongoDB to store product details and user orders. Integrated AWS S3 for uploading and storage of image files. Incorporated the Google Map API to enable mapping functionality, facilitating users in locating and browsing automotive stores. The website's interface was crafted using Bootstrap and custom CSS.

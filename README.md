@@ -52,7 +52,8 @@ Astro Avenger is a 3D side-scrolling flight game created with Unity. It features
 - 🌐 Website: https://yuchenportfolio-jhcul3s5t-therealoglocs-projects.vercel.app/
 
 ## Stats
-![Your Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealOGLoc&layout=compact&theme=radical)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealOGLoc&layout=compact&theme=radical)
+![Activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheRealOGLoc&theme=github)
 
 Thank you for visiting my GitHub profile, feel free to reach out and collaborate!
 
